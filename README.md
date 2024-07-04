@@ -2,7 +2,7 @@
 StudyNotion is an innovative ed-tech platform designed to enhance the learning experience for students, instructors, and administrators. The platform offers a range of features tailored to meet the needs of each user group, facilitating seamless interactions and efficient course management.
 
 # Features
-## For Students
+### For Students
 * **Enroll in Courses**: Easily browse and enroll in a variety of courses.
 * **Rate and Review Courses**: Share feedback and read reviews from other students.
 * **Add Courses to Cart**: Conveniently add desired courses to a shopping cart.
